@@ -154,3 +154,35 @@ Main Columns Used:
 - Views creation
 - Ranking functions
 - Subquery analysis
+
+## Key Business Insights
+
+1. Supermarket Type1 emerged as the dominant revenue contributor.
+Supermarket Type1 outlets generated more than 65% of total revenue, significantly outperforming all other outlet formats. This indicates that large-format supermarket models remain the primary growth driver in the retail ecosystem.
+2. Medium-sized outlets demonstrated the highest operational effectiveness.
+Medium-sized outlets contributed the highest share of revenue (42%+), outperforming even high-sized outlets. This suggests that balanced store capacity and optimized inventory management may deliver better sales efficiency than larger outlet formats.
+3. Tier 3 locations outperformed Tier 1 and Tier 2 markets in overall revenue.
+Contrary to common retail assumptions, Tier 3 outlets generated the highest sales revenue. This highlights strong purchasing demand and potential market expansion opportunities in emerging locations.
+4. Fruits & Vegetables and Snack Foods consistently ranked as the strongest-performing categories.
+These categories achieved the highest revenue across category analysis, ranking analysis, and outlet-level segmentation, indicating strong and stable consumer demand patterns.
+5. Seafood, Breakfast, and Starchy Foods were identified as underperforming categories.
+These categories contributed the lowest revenue across the product portfolio, suggesting opportunities for pricing optimization, product repositioning, or targeted promotional strategies.
+6. Product visibility showed limited correlation with revenue generation.
+Low-visibility products generated higher overall revenue compared to highly visible products. This suggests that customer purchasing decisions may be influenced more by habitual buying behavior, brand familiarity, and essential product demand rather than shelf visibility alone.
+7. Customer satisfaction remained stable across all visibility segments.
+Average customer ratings remained highly consistent across low, medium, and high visibility groups (3.96–3.98), indicating that product visibility had minimal impact on perceived customer satisfaction.
+8. Revenue accumulation trends remained stable across outlet establishment years.
+Running revenue analysis showed gradual cumulative growth without extreme fluctuations, suggesting a relatively stable long-term sales pattern across outlet expansion periods.
+9. Revenue-per-product metrics remained consistent across outlet types.
+Revenue efficiency analysis revealed only minor differences in revenue generated per product sold across outlet formats, indicating pricing consistency and standardized customer basket behavior.
+10. Consumer preferences varied across different location tiers.
+Tier-based category analysis revealed that:
+Tier 1 and Tier 3 locations showed stronger demand for Fruits & Vegetables.
+Tier 2 locations demonstrated higher preference toward Snack Foods.
+This highlights regional purchasing behavior differences and supports the need for location-specific inventory strategies.
+11. Certain high-rated categories generated comparatively lower revenue, indicating untapped business potential.
+Categories such as Meat received strong customer ratings despite lower sales contribution, suggesting opportunities for targeted marketing and assortment expansion.
+12. Product-level revenue concentration revealed a small set of highly impactful products.
+Top-performing individual products contributed disproportionately to overall revenue, indicating the importance of high-demand SKU optimization within the retail inventory structure.
+
+This project combines SQL-based retail analytics with business-driven insight generation to identify revenue patterns, customer behavior trends, outlet performance, product segmentation, and operational opportunities using the Blinkit grocery dataset.
