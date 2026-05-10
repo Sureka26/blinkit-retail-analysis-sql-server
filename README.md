@@ -135,15 +135,6 @@ Main Columns Used:
 - Running Revenue Analysis
 - High Performing Outlet Detection
 
-## Key Business Insights
-
-- Fruits and Vegetables generated the highest revenue
-- Tier 3 outlets showed strong sales contribution
-- Medium visibility products performed better in sales
-- Some highly rated categories generated lower revenue
-- Outlet type significantly impacts total revenue
-- Customer ratings can help identify revenue-risk categories
-
 ## Advanced SQL Features Implemented
 
 - CTE-based business analysis
