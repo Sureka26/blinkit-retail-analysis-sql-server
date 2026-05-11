@@ -56,11 +56,9 @@ This project solves these business problems using SQL Server by transforming raw
 
 - SQL Server
 - SQL Server Management Studio (SSMS)
-- GitHub
 - CSV Dataset
 
 ## Database Schema
-
 ### Table: blinkit_data
 
 Main Columns Used:
